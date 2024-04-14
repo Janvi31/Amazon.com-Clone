@@ -95,11 +95,16 @@
         place-content: center;
         gap: 2rem;
     }
+
     .box {
         height: 100%;
         width: 90%;
     }
 
+    .card-content h3{
+        font-size: medium;
+    }
+    
     .card-content p{
         font-size: 3vw;
         margin-left: 5vw;
