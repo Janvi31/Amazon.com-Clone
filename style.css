@@ -373,27 +373,27 @@ span{
 
 /* BOX SECTION2 */
 
-.Section2box{
+.Sectionbox{
     height: 18rem;
     width: 100%;
     margin-top: 15px;
     background-color: #E3E6E6;
 }
 
-.Section2box-content{
+.Sectionbox-content{
     margin:1.3rem;
     margin-top: 0px;
     cursor: pointer;
     background-color: white;
 }
 
-.Section2box-content h3 {
+.Sectionbox-content h3 {
     padding-top: 15px;
     padding-left: 20px;
     font-size: larger;
 }
 
-.Section2bx-images {
+.Sectionbx-images {
     display: grid;
     grid-auto-flow: column;
     overflow-x: auto;
@@ -401,7 +401,7 @@ span{
     overscroll-behavior-inline: contain;
 }
 
-.Section2box-img{
+.Sectionbox-img{
     display: inline-block;
     margin-top: 1em;
     margin-left: 10px;
